@@ -1,0 +1,10 @@
+@PART[PotatoRoid]
+{
+!mesh = PotatoRoid.mu
+MODEL
+{
+	model = Kidonia/Assets/Kid_Asteroid
+	scale = 1
+	texture = Kidonia/Assets/Asteroid
+}
+}
